@@ -1,0 +1,6 @@
+C:\Users\subhrasmita ojha\source\repos\ArrayOfWords\bin\Debug\ArrayOfWords.exe.config
+C:\Users\subhrasmita ojha\source\repos\ArrayOfWords\bin\Debug\ArrayOfWords.exe
+C:\Users\subhrasmita ojha\source\repos\ArrayOfWords\bin\Debug\ArrayOfWords.pdb
+C:\Users\subhrasmita ojha\source\repos\ArrayOfWords\obj\Debug\ArrayOfWords.csprojAssemblyReference.cache
+C:\Users\subhrasmita ojha\source\repos\ArrayOfWords\obj\Debug\ArrayOfWords.exe
+C:\Users\subhrasmita ojha\source\repos\ArrayOfWords\obj\Debug\ArrayOfWords.pdb
